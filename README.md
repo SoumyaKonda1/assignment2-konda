@@ -29,3 +29,14 @@
 <br>
 
 [Click Here to goto AboutMe Page](AboutMe.md)
+
+<br>
+
+---
+### important location to visit in Hyderabadx
+| City Name | Location | Amount |
+| --- | --- | ---: |
+| Hitech City | Shilparamam | 500 |
+| Madhapur | Durgam Cheruvu | 800 |
+| Kondapur | AMB Mall | 1000 |
+| Vanasthalipuram | Ramoji film city | 5000 |
