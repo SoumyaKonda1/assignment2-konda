@@ -25,3 +25,7 @@
 * Visit Bravo Dock at Harborview
 * Visit Waterfront Park
 * Visit San Diego Air & Space Museum
+---
+<br>
+
+[Click Here to goto AboutMe Page](AboutMe.md)
