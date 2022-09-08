@@ -10,8 +10,18 @@
 
 ---
 ## **Directions To Museum**
-1. From Museum of Us
+1. From ***Museum of Us***
 2. Head west on El Prado toward Bridle Trail
 1. Continue onto Laurel St
 2. Use the right 2 lanes to turn slightly right onto N Harbor Dr
-3. then you will reach **San Diego International Airport**
+3. then you will reach ***San Diego International Airport***
+
+---
+
+#### list of other locations around the museum that i would recommend for others.
+
+* Go to San Diego Zoo
+* Visit *The Crack Shack - Little Italy Restaurant*
+* Visit Bravo Dock at Harborview
+* Visit Waterfront Park
+* Visit San Diego Air & Space Museum
