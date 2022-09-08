@@ -40,3 +40,14 @@
 | Madhapur | Durgam Cheruvu | 800 |
 | Kondapur | AMB Mall | 1000 |
 | Vanasthalipuram | Ramoji film city | 5000 |
+
+
+---
+
+## Quotes
+>
+>"Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking." – *Steve Jobs*
+
+>
+> "Life is like riding a bicycle. To keep your balance, you must keep moving." — *Albert Einstein*
+
